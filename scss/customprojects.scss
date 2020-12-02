@@ -3,6 +3,12 @@ body{
     background: url('../myimages/projects/projectsbg.jpg');
 }
 
+.card-img-top{
+    margin: 1rem auto;
+    border-radius: 50%;
+    width: 35%;
+    box-shadow: 0px 10px 20px #888888;
+}
 .navbar{
     background: black;
 }
@@ -25,5 +31,24 @@ body{
     }
     .text-muted:hover{
         text-decoration: underline;
+    }
+    .odd{
+        background: radial-gradient(circle, rgba(255,255,255,0.2) 0%, rgba(240,84,84,0.2) 100%);
+    }
+    .even{
+        background: radial-gradient(circle, rgba(255,255,255,0.2) 0%, rgba(48,71,94,0.2) 100%);
+    }
+    .card-text{
+        width: 305px;
+        margin: 0 auto 1rem;
+    }
+}
+
+@media(min-width: 992px){
+    .card-img-top{width:50%;}
+    .projects{
+        .card-text{
+            width: 250px;
+        }
     }
 }

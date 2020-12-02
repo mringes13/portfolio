@@ -6834,5 +6834,8 @@ body {
 @media (min-width: 768px) {
   #intern .work-title {
     border: none !important; } }
+@media (min-width: 992px) {
+  #intern .company {
+    border: 0px solid #ffffff !important; } }
 
 /*# sourceMappingURL=work.css.map */

@@ -19,3 +19,12 @@ body{
         .work-title{border: none!important;}
     }
 }
+
+@media(min-width: 992px){
+    #intern{
+        .company{
+            border: 0px solid #ffffff!important;
+        }
+
+    }
+}
