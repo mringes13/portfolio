@@ -6820,9 +6820,6 @@ body {
     background: #1f1f1f; }
     .navbar .nav-link:hover {
       border-bottom: none; } }
-body {
-  background: url("../myimages/workbg.jpg"); }
-
 #internships .container {
   max-width: 1440px !important; }
 
