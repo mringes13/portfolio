@@ -3,6 +3,11 @@ body{
     background: url('../myimages/workbg.jpg');
 }
 
+#internships{
+    .container{
+        max-width: 1440px!important;
+    }
+}
 #otherwork{
     li::marker{
         color: #f05454;
