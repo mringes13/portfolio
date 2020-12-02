@@ -6820,6 +6820,9 @@ body {
     background: #1f1f1f; }
     .navbar .nav-link:hover {
       border-bottom: none; } }
+body {
+  background: url("../myimages/projects/projectsbg.jpg"); }
+
 #toptext {
   font-weight: 100; }
 
