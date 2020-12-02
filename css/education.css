@@ -6796,11 +6796,11 @@ body {
 
 .navbar {
   font-weight: 100;
-  position: absolute;
   top: 0;
   right: 0;
   left: 0;
-  z-index: 3; }
+  z-index: 3;
+  background: #222831; }
   .navbar .navbar-brand h3 {
     font-weight: 100; }
   .navbar .nav-item {
@@ -6826,17 +6826,15 @@ body {
 #toptext {
   font-weight: 100; }
 
-#educationquote {
-  margin-top: 70px; }
-  #educationquote .container {
-    max-width: 1440px !important; }
-  #educationquote blockquote img {
-    width: 100%; }
-  #educationquote blockquote footer {
-    color: #000000;
-    font-weight: 400;
-    font-family: "Noto Sans JP", sans-serif;
-    font-size: 90%; }
+#educationquote .container {
+  max-width: 1440px !important; }
+#educationquote blockquote img {
+  width: 100%; }
+#educationquote blockquote footer {
+  color: #000000;
+  font-weight: 400;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 90%; }
 
 #overview a {
   color: #000000; }
