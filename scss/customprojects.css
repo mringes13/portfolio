@@ -1,0 +1,22 @@
+body {
+  background: url("../myimages/projects/projectsbg.jpg"); }
+
+.navbar {
+  background: black; }
+
+.projects a {
+  text-decoration: none; }
+.projects a:link {
+  text-decoration: none; }
+.projects a:visited {
+  text-decoration: none; }
+.projects a:hover {
+  text-decoration: none; }
+.projects a:active {
+  text-decoration: none; }
+.projects .container {
+  max-width: 1440px !important; }
+.projects .text-muted:hover {
+  text-decoration: underline; }
+
+/*# sourceMappingURL=customprojects.css.map */

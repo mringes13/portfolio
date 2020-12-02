@@ -1,0 +1,42 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  color: #222831;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.c {
+  font-family: 'Petit Formal Script', cursive; }
+
+.k {
+  font-family: "Khula", sans-serif;
+  line-height: 0.8; }
+
+.navbar {
+  font-weight: 100;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 3; }
+  .navbar .navbar-brand h3 {
+    font-weight: 100; }
+  .navbar .nav-item {
+    font-size: 1.4rem;
+    margin-left: 2px;
+    margin-right: 2px; }
+  .navbar .nav-link:hover {
+    border-bottom: 1px solid #ffffff; }
+
+#footer ul li a {
+  font-weight: 100; }
+#footer .nav-link:hover {
+  border-bottom: 1px solid #ffffff; }
+
+@media (max-width: 768px) {
+  .navbar {
+    background: #1f1f1f; }
+    .navbar .nav-link:hover {
+      border-bottom: none; } }
+
+/*# sourceMappingURL=custompage.css.map */

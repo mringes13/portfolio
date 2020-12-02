@@ -1,0 +1,19 @@
+body {
+  background: url("../myimages/workbg.jpg"); }
+
+#toptext {
+  font-weight: 100; }
+
+#intern .container {
+  max-width: 1440px !important; }
+
+#otherwork .container {
+  max-width: 1440px !important; }
+#otherwork li::marker {
+  color: #f05454; }
+
+@media (min-width: 768px) {
+  #intern .work-title {
+    border: none !important; } }
+
+/*# sourceMappingURL=customwork.css.map */

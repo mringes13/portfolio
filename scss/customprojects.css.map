@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,IAAI;EACA,UAAU,EAAE,0CAA0C;;AAG1D,OAAO;EACH,UAAU,EAAE,KAAK;;AAGjB,WAAE;EAAC,eAAe,EAAE,IAAI;AACxB,gBAAO;EACH,eAAe,EAAE,IAAI;AAEzB,mBAAU;EACN,eAAe,EAAE,IAAI;AAEzB,iBAAQ;EACJ,eAAe,EAAE,IAAI;AAEzB,kBAAS;EACL,eAAe,EAAE,IAAI;AAEzB,oBAAU;EACN,SAAS,EAAE,iBAAgB;AAE/B,2BAAiB;EACb,eAAe,EAAE,SAAS",
+"sources": ["customprojects.scss"],
+"names": [],
+"file": "customprojects.css"
+}
