@@ -6799,7 +6799,7 @@ body {
   top: 0;
   right: 0;
   left: 0;
-  z-index: 3;
+  z-index: 5;
   background: #222831; }
   .navbar .navbar-brand h3 {
     font-weight: 100; }
