@@ -6823,9 +6823,6 @@ body {
 body {
   background: url("../myimages/workbg.jpg"); }
 
-#toptext {
-  font-weight: 100; }
-
 #otherwork li::marker {
   color: #f05454; }
 
@@ -6833,7 +6830,10 @@ body {
   #intern .work-title {
     border: none !important; } }
 @media (min-width: 992px) {
-  #intern .company {
-    border: 0px solid #ffffff !important; } }
+  #internships .company {
+    border: 0px solid #ffffff !important; }
+
+  .card-img-top {
+    width: 100% !important; } }
 
 /*# sourceMappingURL=work.css.map */

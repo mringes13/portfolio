@@ -2,9 +2,7 @@
 body{
     background: url('../myimages/workbg.jpg');
 }
-#toptext{
-    font-weight: 100;
-}
+
 #otherwork{
     li::marker{
         color: #f05454;
@@ -18,10 +16,12 @@ body{
 }
 
 @media(min-width: 992px){
-    #intern{
+    #internships{
         .company{
             border: 0px solid #ffffff!important;
         }
-
+    }
+    .card-img-top{
+        width:100%!important;
     }
 }
