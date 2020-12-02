@@ -1,0 +1,29 @@
+body{
+    background: url('../myimages/projects/rootedbg.jpg');
+}
+
+.navbar{
+    background: black;
+}
+
+#header{
+    img{
+        margin:0 auto; 
+        width: 50%; 
+        max-width: 250px; 
+        border-radius: 50%; 
+        box-shadow: 10px 5px 15px #7c7c7c;
+    }
+    h2{
+        border-radius:10px;
+        font-weight: 900;
+        text-transform: uppercase;
+    }
+}
+
+#content{
+    .card-title{
+        font-weight: 100;
+        font-style:italic;
+    }
+}

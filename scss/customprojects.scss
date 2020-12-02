@@ -1,0 +1,29 @@
+//whatever we want to change
+body{
+    background: url('../myimages/projects/projectsbg.jpg');
+}
+
+.navbar{
+    background: black;
+}
+.projects{
+    a {text-decoration: none;}
+    a:link {
+        text-decoration: none;
+    }
+    a:visited {
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: none;
+    }
+    a:active {
+        text-decoration: none;
+    }  
+    .container{
+        max-width: 1440px!important;
+    }
+    .text-muted:hover{
+        text-decoration: underline;
+    }
+}

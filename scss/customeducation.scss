@@ -1,0 +1,60 @@
+//whatever we want to change
+body{
+    background: url('../myimages/educationbg.jpg');
+}
+
+#toptext{
+    font-weight: 100;
+}
+
+#educationquote{
+    margin-top:70px;
+    .container{
+        max-width: 1440px!important;
+    }
+    blockquote img{width: 100%;}
+    blockquote footer{
+        color: #000000;
+        font-weight: 400;
+        font-family: "Noto Sans JP", sans-serif;
+        font-size: 90%;
+    }
+}
+
+#overview{
+    a{
+        color: #000000;
+    }
+    a:hover{
+        color: #000000!important;
+    }
+    .card-img-overlay{
+        position: absolute;
+        top: 40%;
+    }
+}
+#coursework{
+    .container{
+        max-width: 1440px!important;
+    }
+    .tab-pane{
+        line-height: 2;
+    }
+}
+#leadership{
+    #xlarge{
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+    .container{
+        max-width: 1440px!important;
+    }
+}
+
+@media(min-width: 992px){
+    #overview{
+        a:hover{
+            color: #ffffff!important;
+        }
+    }
+}

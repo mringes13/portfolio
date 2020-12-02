@@ -1,0 +1,11 @@
+//override default colors
+$theme-colors:(
+    "primary":#30475e,
+    "danger": #f05454,
+    "warning":#e8e8e8,
+    "info":#222831,
+);
+
+
+//import bootstrap
+@import "../bootstrap/scss/bootstrap";
