@@ -6826,8 +6826,6 @@ body {
 #toptext {
   font-weight: 100; }
 
-#otherwork .container {
-  max-width: 1440px !important; }
 #otherwork li::marker {
   color: #f05454; }
 
