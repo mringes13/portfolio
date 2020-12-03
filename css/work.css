@@ -6823,16 +6823,38 @@ body {
 body {
   background: url("../myimages/projects/projectsbg.jpg"); }
 
+#workquote .container {
+  max-width: 1440px !important; }
+#workquote blockquote img {
+  width: 100%; }
+#workquote blockquote footer {
+  color: #000000;
+  font-weight: 400;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 90%; }
+
+#internships .card-img-top {
+  border-radius: 5px !important; }
+#internships .card {
+  border: 8px solid rgba(255, 255, 255, 0.1) !important;
+  background-color: transparent !important; }
+  #internships .card .inner {
+    border: 1px solid #000000 !important; }
+
 #otherwork li::marker {
   color: #f05454; }
 
+@media (max-width: 992px) {
+  #internships .card-img-top {
+    width: 40%;
+    margin: 1.5rem auto 0; } }
+@media (max-width: 768px) {
+  #internships .card-img-top {
+    width: 30%; } }
 @media (min-width: 768px) {
   #intern .work-title {
     border: none !important; } }
 @media (min-width: 992px) {
-  #internships .company {
-    border: 0px solid #ffffff !important; }
-
   .card-img-top {
     width: 100% !important; } }
 
