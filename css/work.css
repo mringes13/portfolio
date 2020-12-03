@@ -6835,6 +6835,8 @@ body {
 
 #internships .card-img-top {
   border-radius: 0px !important; }
+#internships .card-header {
+  border-radius: 0px !important; }
 #internships .card {
   border: 8px solid rgba(255, 255, 255, 0.1) !important;
   background-color: transparent !important; }
