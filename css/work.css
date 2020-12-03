@@ -6834,12 +6834,12 @@ body {
   font-size: 90%; }
 
 #internships .card-img-top {
-  border-radius: 5px !important; }
+  border-radius: 0px !important; }
 #internships .card {
   border: 8px solid rgba(255, 255, 255, 0.1) !important;
   background-color: transparent !important; }
   #internships .card .inner {
-    border: 1px solid #000000 !important; }
+    border-style: ridge !important; }
 
 #otherwork li::marker {
   color: #f05454; }
@@ -6856,6 +6856,6 @@ body {
     border: none !important; } }
 @media (min-width: 992px) {
   .card-img-top {
-    width: 95% !important; } }
+    width: 100% !important; } }
 
 /*# sourceMappingURL=work.css.map */

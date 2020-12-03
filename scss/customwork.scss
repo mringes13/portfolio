@@ -15,12 +15,12 @@ body{
     }
 }
 #internships{
-    .card-img-top{border-radius: 5px!important;}
+    .card-img-top{border-radius: 0px!important;}
     .card{
         border: 8px solid rgba(255,255,255,.1)!important;
         background-color: transparent!important;
         .inner{
-            border:1px solid #000000!important;
+            border-style: ridge!important;
         }
     }
 
@@ -55,6 +55,6 @@ body{
 
 @media(min-width: 992px){
     .card-img-top{
-        width:95%!important;
+        width:100%!important;
     }
 }
