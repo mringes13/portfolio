@@ -6839,7 +6839,7 @@ body {
 #overview a {
   color: #000000; }
 #overview a:hover {
-  color: #000000 !important; }
+  color: #ffffff !important; }
 #overview .card-img-overlay {
   position: absolute;
   top: 40%; }
@@ -6854,9 +6854,5 @@ body {
   padding-right: 3rem; }
 #leadership .container {
   max-width: 1440px !important; }
-
-@media (min-width: 992px) {
-  #overview a:hover {
-    color: #ffffff !important; } }
 
 /*# sourceMappingURL=education.css.map */
