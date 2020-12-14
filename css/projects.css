@@ -6823,6 +6823,16 @@ body {
 body {
   background: url("../myimages/projects/projectsbg.jpg"); }
 
+#projectsquote .container {
+  max-width: 1440px !important; }
+#projectsquote blockquote img {
+  width: 100%; }
+#projectsquote blockquote footer {
+  color: #000000;
+  font-weight: 400;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 90%; }
+
 .card-img-top {
   margin: 1rem auto;
   border-radius: 50%;
@@ -6846,10 +6856,6 @@ body {
   max-width: 1440px !important; }
 .projects .text-muted:hover {
   text-decoration: underline; }
-.projects .odd {
-  background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, rgba(240, 84, 84, 0.2) 100%); }
-.projects .even {
-  background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, rgba(48, 71, 94, 0.2) 100%); }
 .projects .card-text {
   width: 305px;
   margin: 0 auto 1rem; }
