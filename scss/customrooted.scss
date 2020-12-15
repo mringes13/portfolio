@@ -28,11 +28,6 @@ body{
         font-style:italic;
     }
 }
-@media(max-width: 992px){
-    #aboutme{
-        font-size: 0.2rem;
-    }
-}
 @media(min-width: 992px){
     .col-lg-2{
         flex: 0 0 20%;
