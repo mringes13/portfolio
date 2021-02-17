@@ -6856,7 +6856,11 @@ body {
   max-width: 1440px !important; }
 
 @media (max-width: 768px) {
-  .tab-pain {
-    font-size: 12px; } }
+  .list-group-item {
+    font-size: 12px;
+    padding: 7px 10px; }
+
+  .tab-pane {
+    font-size: 10px; } }
 
 /*# sourceMappingURL=education.css.map */
