@@ -6855,4 +6855,8 @@ body {
 #leadership .container {
   max-width: 1440px !important; }
 
+@media (max-width: 768px) {
+  .tab-pain {
+    font-size: 12px; } }
+
 /*# sourceMappingURL=education.css.map */

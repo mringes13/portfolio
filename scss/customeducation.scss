@@ -49,3 +49,9 @@ body{
         max-width: 1440px!important;
     }
 }
+
+@media(max-width: 768px){
+    .tab-pain{
+        font-size: 12px;
+    }
+}
